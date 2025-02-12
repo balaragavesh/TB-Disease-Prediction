@@ -16,5 +16,5 @@ This project implements a Convolutional Neural Network (CNN) to predict Tubercul
 - Trained using TensorFlow
 
 ## License
-- This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
